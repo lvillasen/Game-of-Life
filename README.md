@@ -10,3 +10,6 @@ Game of life in JavaScript
 ## Live Demo
 
 https://ciiec.buap.mx/GameLife
+
+## Credits
+The patterns and code to read RLE format were taken from https://github.com/yuanchuan/game-of-life/
